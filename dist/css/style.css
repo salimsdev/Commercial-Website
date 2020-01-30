@@ -46,6 +46,10 @@ img {
     font-size: 1.2rem;
     padding-top: 0.3rem;
     padding-bottom: 0.3rem;
+    position: sticky;
+    top: 0;
+    background: #fcfcfc;
+    z-index: 1;
 }
 
 .navbar .container {
